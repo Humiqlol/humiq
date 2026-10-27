@@ -9,9 +9,9 @@ import { isAddress } from "@/config/brand";
  * Check a deployment any time: `npm run verify-deployment -- --book <address> --book-tx <tx>`.
  */
 const DEPLOYED = {
-  book: "",
+  book: "0xaee34ae6dcd7fbf7762dfacf43036a64958c20f4",
   /** Block of the HumiqEvidenceBook deployment. */
-  bookBlock: 0,
+  bookBlock: 99156576,
 };
 
 /**
